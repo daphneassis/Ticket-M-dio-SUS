@@ -1,0 +1,1 @@
+Projeto de Internações e Custo para o SUS – Uma análise sobre quanto custa cada internação por doença ao SUS no âmbito do Rio de Janeiro, como um ticket médio das doenças. Análise de 2012-2013 e 2021-2022.
